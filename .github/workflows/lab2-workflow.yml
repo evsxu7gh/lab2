@@ -15,7 +15,7 @@ on:
       
 
 jobs:
- job2:
+  job2:
     runs-on: ubuntu-latest
     steps:
       - name: Printing Custom Message
